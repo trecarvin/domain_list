@@ -62,3 +62,4 @@ nftset=/youtubei.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/yt-video-upload.l.google.com/4#inet#fw4#vpn_domains
 nftset=/wide-youtube.l.google.com/4#inet#fw4#vpn_domains
 nftset=/ntc.party/4#inet#fw4#vpn_domains
+nftset=/fast.com/4#inet#fw4#vpn_domains
